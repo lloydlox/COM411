@@ -1,0 +1,3 @@
+TotalSavings = input (' Please enter total amount of savings')
+TotalSavings = int()
+Print TotalSavings
