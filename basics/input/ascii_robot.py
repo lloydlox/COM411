@@ -1,0 +1,10 @@
+#Display a BaseException
+print ('What is the symbol for the eye')
+eye = input ()
+print ('What is the symbol for mouth')
+mouth = input ()
+print("###########")
+print("#         #")
+print("# ",eye, "#")
+print("#" ,mouth,"#")
+print("###########")
