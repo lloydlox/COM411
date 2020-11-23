@@ -22,3 +22,24 @@ print ("-" *dashes)
 #for x in range(0,3,1):
   #down = ("*")*x
   #print (down)
+  
+
+    
+  #else:
+   # print ("Try again")
+      
+
+
+  
+  
+#guess_value_2 = int(input())    
+#while guess_value > random_value or guess_value < random_value:
+ #   print ("Try again")
+#while guess_value_2 > random_value or guess_value_2 < random_value:
+ #if guess_value_2> random_value:
+  #   print ("Your guess is too high")
+ #elif guess_value_2 == random_value:
+  #  print ("Congratulations! You guessed my number")
+
+
+ 
